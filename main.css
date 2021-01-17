@@ -2,3 +2,7 @@ body {
     padding: 100px;
     background-color:powderblue
 }
+
+h2 {
+    font-weight: normal;
+}
